@@ -34,6 +34,7 @@ on your computer: download the
 archive containing the scripts and extract the scripts to your folder of
 preference:
 
+    mkdir folder/of/preference
     tar xzf -C folder/of/preference scripts.tar.gz
 
 ### Input files
