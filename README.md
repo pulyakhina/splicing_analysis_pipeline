@@ -9,10 +9,10 @@ performed individually on each sample and the last step looks at the overlap
 in all samples. However, the analysis can be run on one sample as well.
 
 All scripts and commands are called from a single `run.sh` script. You have to
-create it yourself from `run_template.sh` (please go to the [USAGE](https://git.lumc.nl/i.pulyakhina/pipeline_paper/tree/master#usage)
+create it yourself from `run_template.sh` (please go to the [USAGE](https://github.com/pulyakhina/splicing_analysis_pipeline/blob/master/README.md#usage)
 section for more details). Before running `run.sh` you have to specify the
 locations of the scripts and the input files within it (please check the
-[USAGE](https://git.lumc.nl/i.pulyakhina/pipeline_paper/tree/master#usage)
+[USAGE](https://github.com/pulyakhina/splicing_analysis_pipeline/blob/master/README.md#usage)
 section for more details).
 
 The pipeline is designed to analyze captured RNA-Seq data, however, in principle
@@ -38,7 +38,7 @@ preference:
 
 ### Input files
 
-You can first have a look at the [example](https://git.lumc.nl/i.pulyakhina/pipeline_paper/blob/master/Source/example_data.tar.gz)
+You can first have a look at the [example](LINK)
 input files and use them in your test
 run of the pipeline. Download the archive with the example text data files and
 extract the files to yur folder of preference:
@@ -126,7 +126,7 @@ same folder).
 
 
 In order to verify that the pipeline works properly on your machine, please
-check the [list] (https://git.lumc.nl/i.pulyakhina/pipeline_paper/blob/master/Source/Results_overview.txt)
+check the [list] (LINK)
 of the names and the sizes of the results files.
 
 
