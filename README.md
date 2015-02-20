@@ -1,4 +1,4 @@
-Splicing pipeline
+SplicePie -- a pipeline to analyze non-sequential and multi-step splicing
 --------------------------------------
 
 The pipeline contains three major analysis steps: analyzing the order of
