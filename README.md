@@ -40,7 +40,7 @@ preference:
 
 ### Input files
 
-You can first have a look at the [example](LINK)
+You can first have a look at the [example](https://barmsijs.lumc.nl/HG/irina/example_data.tar.gz)
 input files and use them in your test
 run of the pipeline. Download the archive with the example text data files and
 extract the files to yur folder of preference:
