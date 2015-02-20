@@ -2,7 +2,7 @@ SplicePie
 --------------------------------------
 ### A pipeline to analyze non-sequential and multi-step splicing
 
-SplicePie contains three major analysis steps: analyzing the order of
+*SplicePie* contains three major analysis steps: analyzing the order of
 splicing per sample, looking for recursive splicing events per sample and
 summarizing predicted recursive splicing events for all analyzed sample (it is
 recommended to use more samples for higher reliability). The first two steps are
